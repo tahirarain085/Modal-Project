@@ -15,6 +15,15 @@
   height: 50px;
   justify-content: center;
 }
+.btn {
+  border-radius: 10px;
+  background: rgb(12, 125, 163);
+  cursor: pointer;
+  border: none;
+}
+.btn:hover {
+  background: lightcoral;
+}
 
 .modal-overlay {
   position: fixed;
